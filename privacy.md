@@ -30,7 +30,7 @@ You can easily delete all User Provided Data by uninstalling the Application fro
 Data Retention Policy, Managing Your Information
 This Application does not automatically collect, share nor retain any information. All Countdown details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
 
-If you would like to update specific User Provided Data, you may do it directly within the Application, by editing or removing the Countdown(s) in question.
+If you would like to update specific User Provided Data, you may do it directly within the Application, by removing the words you searched.
 
 If you would like to delete User Provided Data, you may do it by clearing the application's data or by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
@@ -56,7 +56,7 @@ You are advised to review this Privacy Policy periodically for any changes, as c
 Your Consent
 By using the Application, you only consent to the local processing of your information.
 
-At any time, no User Provided Data (such as Countdown details) will be shared, processed and/or stored by third parties. User Provided Data cannot and will never be sold to any other third parties.
+At any time, no User Provided Data (such as words you searched) will be shared, processed and/or stored by third parties. User Provided Data cannot and will never be sold to any other third parties.
 
 Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at:
